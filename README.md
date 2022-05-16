@@ -4,6 +4,7 @@
 - Python 3.9.0
 - robotframework 4.1.3
 - robotframework-seleniumlibrary 4.5.0
+- WebDriver for Chrome
 
 ## Command to run
 py -m robot -d Results Tests
